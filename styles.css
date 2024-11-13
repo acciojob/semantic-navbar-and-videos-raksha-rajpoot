@@ -1,2 +1,9 @@
-
+nav ul li{
+	display:inline;
+	padding:50px;
+}
+ul{
+	text-align:center;
+	background-color:red;
+}
 /* Your CSS Code here. */
